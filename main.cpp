@@ -2,10 +2,15 @@
 
 using namespace std;
 
+void print()
+{
+    cout << "Hello World!" << endl;
+}
+
 // comment function
 int main()
 {
-    cout << "Hello World!" << endl;
+    print();
     return 0;
 }
 
