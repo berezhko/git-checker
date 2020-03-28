@@ -1,4 +1,4 @@
-#include "libs/print.h"
+#include "print.h"
 
 // comment function
 int main()
