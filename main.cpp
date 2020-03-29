@@ -1,6 +1,7 @@
 #include "print.h"
 
-// comment function
+// comment main function
+// print to std hello world end exit
 int main()
 {
     print();
